@@ -1,0 +1,22 @@
+.wrapper {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    overflow: auto;
+    background-color: navy;
+  
+  }
+.wrapper {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    overflow: auto;
+    background-image: url(https://www.nasa.gov/sites/default/files/thumbnails/image/heic1404a-med.jpg);
+  
+  }

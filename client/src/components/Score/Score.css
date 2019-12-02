@@ -1,0 +1,57 @@
+.dragonTournament {
+    text-align: center; 
+    position: relative;
+    padding: 5px;
+    background-color: black;
+    border-style: dotted;  border-color: grey;
+    width: 100%;
+    margin-bottom: 50px;
+    
+    
+  }
+  
+  
+  h1.title {
+    color: greenyellow; font-weight: bold;
+    padding-bottom: 40px;
+    font-family: Impact, fantasy;
+    font-weight: bold;
+    
+  }
+
+  h4.rules {
+    color: rgb(25, 164, 138); 
+    padding-bottom: 50px;
+    
+  }
+
+  h3.total {
+    color: greenyellow;
+  }
+
+.dragonTournament {
+    text-align: center; 
+    position: relative;
+    padding: 5px;
+    background-color: black;
+    border-style: dotted;  border-color: black;
+    width: 100%;
+    margin-bottom: 50px;  
+  }
+  
+  
+  h1.title {
+    color: greenyellow; font-weight: bold;
+    padding-bottom: 40px;
+    font-family: Impact, fantasy;
+    font-weight: bold;  
+  }
+
+  h4.rules {
+    color: rgb(25, 164, 138); 
+    padding-bottom: 50px;   
+  }
+
+  h3.total {
+    color: lightgray;
+  }

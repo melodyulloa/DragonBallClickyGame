@@ -1,0 +1,23 @@
+.dragonB {
+    background: #fff;
+    border-radius: 200px;
+    height: 230px;
+    margin: 1rem;
+    margin-bottom: 100px;
+    position: relative;
+    width: 230px;
+    box-shadow: 0 13px 10px rgb(175, 176, 169), 0 3px 16px black;
+    overflow: hidden;
+  }
+
+.dragonB {
+    background: grey;
+    border-radius: 200px;
+    height: 230px;
+    margin: 1rem;
+    margin-bottom: 100px;
+    position: relative;
+    width: 230px;
+    box-shadow: 0 13px 10px rgb(175, 176, 169), 0 3px 16px black;
+    overflow: hidden;
+  }
